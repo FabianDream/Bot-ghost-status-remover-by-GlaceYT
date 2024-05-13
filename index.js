@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [process.env.MESSAGES];
+const statusMessages = ["‎ "];
 
 
 let currentIndex = 0;
